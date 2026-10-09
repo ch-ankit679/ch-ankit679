@@ -1,6 +1,6 @@
 <!-- ===================== HERO ===================== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:164e63,100:0f766e&height=220&section=header&text=Ankit%20Choudhary&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Data%20Science%20Engineer%20%7C%20AI%20%26%20Full-Stack%20Developer&descSize=17&descAlignY=58&animation=fadeIn" alt="Ankit Choudhary profile banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:164e63,100:0f766e&height=220&section=header&text=Ankit%20Choudhary&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Data%20Science%20Engineer%20%7C%20AI%20Developer%20%7C%20Full-Stack%20Developer&descSize=17&descAlignY=58&animation=fadeIn" alt="Ankit Choudhary profile banner" width="100%" />
 
   <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=14B8A6&center=true&vCenter=true&width=750&lines=Building+intelligent%2C+data-driven+solutions;Turning+ideas+into+useful+applications;Python+%7C+Machine+Learning+%7C+Next.js;Always+learning.+Always+building." target="_blank">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=14B8A6&center=true&vCenter=true&width=750&lines=Building+intelligent%2C+data-driven+solutions;Turning+ideas+into+useful+applications;Python+%7C+Machine+Learning+%7C+Next.js;Always+learning.+Always+building." alt="Animated text: Building intelligent, data-driven solutions" />
