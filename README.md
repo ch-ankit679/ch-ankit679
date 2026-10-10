@@ -12,8 +12,6 @@
     <a href="mailto:ch.ankit679@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="https://automated-ecg-classification.streamlit.app/"><img src="https://img.shields.io/badge/Live%20Demo-ECG%20Classifier-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="ECG classifier live demo" /></a>
   </p>
-
-  <img src="https://komarev.com/ghpvc/?username=ch-ankit679&label=PROFILE%20VIEWS&color=0f766e&style=flat-square" alt="Profile views" />
 </div>
 
 ---
